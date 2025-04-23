@@ -8,9 +8,9 @@ const Header = () => {
         <Navbar className="nav">
         <Container>
           <Navbar.Brand href="#home">
-          <i class="fa-solid fa-quote-left"></i>Quotes
+          <i class="fa-solid fa-quote-left"></i>
           <i class="fa-solid fa-quote-right"></i>{' '}
-            React Bootstrap
+          QuoteSnap
           </Navbar.Brand>
         </Container>
       </Navbar>
